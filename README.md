@@ -1,17 +1,17 @@
-<h1 align="center">Hello 👋, I'm Abdul Hayi</h1>
-<h3 align="center">A Full-stack developer from Pakistan</h3>
+<h1 align="center">Hello 👋, I'm Abdul Hayy</h1>
+<h3 align="center">A Software Engineer from Manchester</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/c7e2ca28de4726d848194ebbb60d6f91ff1188a781fb370e0aa8dab942cc9c50/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313637302f312a5a53566d57476363317765454e6230536861775778772e676966">
 
 - 🔭 I’m currently working on [DreamDesign](https://dreamdesign.club/)
 
-- 🌱 I’m currently learning **TypeScript and GraphQL**
+- 🌱 I’m currently learning **Web Security**
 
 - 👨‍💻 All of my projects are available at [https://findabdulhayi.web.app/](https://findabdulhayi.web.app/)
 
-- 💬 Ask me about **JavaScript, React, Node and PHP**
+- 💬 Ask me about **Java, JavaScript, React, Node and PHP**
 
-- 📫 How to reach me **abdulhayi600@gmail.com**
+- 📫 How to reach me **abdulhayy600@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
