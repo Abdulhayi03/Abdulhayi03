@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **Web Security**
 
-- 👨‍💻 All of my projects are available at [https://findabdulhayi.web.app/](https://findabdulhayi.web.app/)
-
-- 💬 Ask me about **Java, JavaScript, React, Node and PHP**
+- 💬 Ask me about **JavaScript, React, Node and Python**
 
 - 📫 How to reach me **abdulhayy600@gmail.com**
 
