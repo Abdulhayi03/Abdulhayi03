@@ -1,11 +1,11 @@
 <h1 align="center">Hello 👋, I'm Abdul Hayy</h1>
 <h3 align="center">A Software Engineer from Manchester</h3>
 
-- 🔭 I’m currently working on [DreamDesign](https://dreamdesign.club/)
+- 🔭 I’m currently working with [MNF Engineers and Consultants]
 
 - 🌱 I’m currently learning **Web Security**
 
-- 💬 Ask me about **JavaScript, React, Node and Python**
+- 💬 Ask me about **Software Development, Cloud, LLMS, Agentic AI and Information Security**
 
 - 📫 How to reach me **abdulhayy600@gmail.com**
 
